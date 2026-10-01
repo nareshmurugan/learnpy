@@ -1,0 +1,14 @@
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+# Private answer keys must never enter the shared learning repository.
+/mentor-private/
+.env
+.env.*
+!.env.example

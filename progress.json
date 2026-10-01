@@ -1,0 +1,4336 @@
+{
+  "schema_version": 1,
+  "mentor": "Naresh",
+  "learner": "Raajashree",
+  "system_approved": false,
+  "first_task_authorized": false,
+  "decisions": [],
+  "tasks": {
+    "PY-001": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-002": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-003": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-004": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-005": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-006": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-007": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-008": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-009": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-00": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-010": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-011": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-012": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-013": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-014": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-015": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-016": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-017": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-018": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-019": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-020": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-021": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-022": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-023": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-024": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-025": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-026": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-027": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-028": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-029": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-030": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-031": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-032": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-033": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-001": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-01": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-034": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-035": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-036": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-037": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-038": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-039": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-040": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-041": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-042": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-043": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-044": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-045": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-002": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-02": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-046": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-047": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-048": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-049": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-050": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-051": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-052": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-053": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-054": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-055": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-056": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-057": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-058": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-059": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-060": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-061": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-062": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-063": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-003": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-03": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-064": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-065": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-066": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-067": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-068": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-069": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-070": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-071": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-072": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-073": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-074": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-075": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-076": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-077": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-078": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-079": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-080": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-004": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-04": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-081": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-082": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-083": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-084": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-085": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-086": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-087": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-088": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-089": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-090": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-091": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-092": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-05": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-093": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-094": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-095": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-096": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-097": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-098": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-099": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-100": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-101": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-102": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-005": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-06": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-103": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-104": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-105": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-106": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-107": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-108": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-109": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-110": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-111": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-006": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-07": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-112": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-113": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-114": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-115": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-116": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-117": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-118": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-119": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-120": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-121": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-122": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-123": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-124": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-125": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-126": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-127": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-128": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-129": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-130": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-131": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-132": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-007": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-08": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-133": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-134": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-135": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-136": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-137": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-138": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-139": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-140": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-141": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-142": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-143": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-144": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-145": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-146": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-147": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-09": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-148": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-149": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-150": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-151": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-152": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-153": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-154": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-155": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-156": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-157": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-158": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-159": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-160": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-161": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-162": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-10": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-163": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-164": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-165": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-166": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-167": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-168": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-169": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-170": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-171": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-172": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-11": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-173": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-174": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-175": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-176": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-177": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-178": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-179": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-180": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-181": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-182": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-183": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-184": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-008": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-12": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-185": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-186": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-187": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-188": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-189": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-190": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-191": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-192": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-193": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-194": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-195": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-196": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-009": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-13": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-197": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-198": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-199": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-200": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-201": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-202": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-203": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-204": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-205": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-206": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-207": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-208": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-209": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-210": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-211": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-212": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-213": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-214": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-215": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-216": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-010": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-14": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-217": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-218": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-219": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-220": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-221": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-222": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-223": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-224": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-225": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-226": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-227": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-228": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-229": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-230": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-231": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-232": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-011": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-15": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-233": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-234": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-235": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-236": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-237": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-238": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-239": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-240": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-241": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-242": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-243": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-244": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-245": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-246": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-012": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-16": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-247": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-248": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-249": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-250": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-251": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-252": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-253": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-254": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-255": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-256": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-257": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-258": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-259": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-013": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-17": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-260": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-261": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-262": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-263": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-264": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-265": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-266": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-267": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-268": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-269": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-270": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-271": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-272": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-273": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-274": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-275": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-014": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-18": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CAP-001": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    }
+  }
+}
