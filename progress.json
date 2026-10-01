@@ -2,12 +2,23 @@
   "schema_version": 1,
   "mentor": "Naresh",
   "learner": "Raajashree",
-  "system_approved": false,
-  "first_task_authorized": false,
-  "decisions": [],
+  "system_approved": true,
+  "first_task_authorized": true,
+  "decisions": [
+    {
+      "at": "2026-10-01T17:36:13+00:00",
+      "by": "Naresh",
+      "action": "approve-system"
+    },
+    {
+      "at": "2026-10-01T17:36:13+00:00",
+      "by": "Naresh",
+      "action": "authorize-first-task"
+    }
+  ],
   "tasks": {
     "PY-001": {
-      "status": "LOCKED",
+      "status": "ASSIGNED",
       "checks": {
         "theory": false,
         "hands_on": false,
@@ -18,7 +29,24 @@
       "mastery": [],
       "submission_commit": null,
       "review_path": null,
-      "history": []
+      "history": [
+        {
+          "at": "2026-10-01T17:40:28+00:00",
+          "by": "Naresh",
+          "from": "LOCKED",
+          "to": "ASSIGNED",
+          "submission_commit": null,
+          "review_path": null,
+          "score": null,
+          "checks": {
+            "theory": false,
+            "hands_on": false,
+            "test": false,
+            "review": false
+          },
+          "mastery": []
+        }
+      ]
     },
     "PY-002": {
       "status": "LOCKED",

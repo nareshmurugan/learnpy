@@ -4,18 +4,18 @@ Generated from `progress.json`; do not edit this table directly.
 
 Mentor: **Naresh**. Learner: **Raajashree**.
 
-System approved: **no**. First task authorized: **no**.
+System approved: **yes**. First task authorized: **yes**.
 
-Waiting for Naresh to approve the mentorship system. No task may be assigned.
+PY-001 — Python setup: ASSIGNED. Finish review/revision before advancing.
 
-ASSIGNED: 0; IN PROGRESS: 0; LOCKED: 317; PASSED: 0; REVIEW: 0; REVISION: 0; SUBMITTED: 0.
+ASSIGNED: 1; IN PROGRESS: 0; LOCKED: 316; PASSED: 0; REVIEW: 0; REVISION: 0; SUBMITTED: 0.
 
 A dash means not verified. Checks are confirmed by Naresh from submission evidence.
 An eligible but unassigned task remains LOCKED. Scores alone cannot produce PASSED.
 
 | ID | Topic | Status | Theory | Hands-on | Test | Review | Score |
 |---|---|---|---|---|---|---|---|
-| PY-001 | Python setup | LOCKED | - | - | - | - | - |
+| PY-001 | Python setup | ASSIGNED | - | - | - | - | - |
 | PY-002 | Programming as step-by-step instructions | LOCKED | - | - | - | - | - |
 | PY-003 | Python and interpreters versus compilers | LOCKED | - | - | - | - | - |
 | PY-004 | Source code and .py files | LOCKED | - | - | - | - | - |
