@@ -236,7 +236,7 @@
       "id": "CP-00",
       "level": 0,
       "kind": "checkpoint",
-      "topic": "Level 0 checkpoint — Programming Foundations",
+      "topic": "Level 0 checkpoint \u2014 Programming Foundations",
       "path": "assessments/CP-00",
       "prerequisites": [
         "PY-009"
@@ -627,7 +627,7 @@
       "id": "CP-01",
       "level": 1,
       "kind": "checkpoint",
-      "topic": "Level 1 checkpoint — Python Fundamentals",
+      "topic": "Level 1 checkpoint \u2014 Python Fundamentals",
       "path": "assessments/CP-01",
       "prerequisites": [
         "PRJ-001"
@@ -838,7 +838,7 @@
       "id": "CP-02",
       "level": 2,
       "kind": "checkpoint",
-      "topic": "Level 2 checkpoint — Control Flow",
+      "topic": "Level 2 checkpoint \u2014 Control Flow",
       "path": "assessments/CP-02",
       "prerequisites": [
         "PRJ-002"
@@ -1139,7 +1139,7 @@
       "id": "CP-03",
       "level": 3,
       "kind": "checkpoint",
-      "topic": "Level 3 checkpoint — Data Structures",
+      "topic": "Level 3 checkpoint \u2014 Data Structures",
       "path": "assessments/CP-03",
       "prerequisites": [
         "PRJ-003"
@@ -1425,7 +1425,7 @@
       "id": "CP-04",
       "level": 4,
       "kind": "checkpoint",
-      "topic": "Level 4 checkpoint — Functions",
+      "topic": "Level 4 checkpoint \u2014 Functions",
       "path": "assessments/CP-04",
       "prerequisites": [
         "PRJ-004"
@@ -1617,13 +1617,43 @@
       "pass_score": 80
     },
     {
+      "level": 5,
+      "kind": "concept",
+      "topic": "Git ignore rules",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-093",
+      "path": "modules/PY-093-git-ignore-rules",
+      "prerequisites": [
+        "PY-092"
+      ]
+    },
+    {
+      "level": 5,
+      "kind": "concept",
+      "topic": "Git commit hygiene",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-094",
+      "path": "modules/PY-094-git-commit-hygiene",
+      "prerequisites": [
+        "PY-093"
+      ]
+    },
+    {
       "id": "CP-05",
       "level": 5,
       "kind": "checkpoint",
-      "topic": "Level 5 checkpoint — Modules and Project Structure",
+      "topic": "Level 5 checkpoint \u2014 Modules and Project Structure",
       "path": "assessments/CP-05",
       "prerequisites": [
-        "PY-092"
+        "PY-094"
       ],
       "hours": [
         4,
@@ -1632,43 +1662,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-093",
-      "level": 6,
-      "kind": "concept",
-      "topic": "Reading files",
-      "path": "files/PY-093-reading-files",
-      "prerequisites": [
-        "CP-05"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-094",
-      "level": 6,
-      "kind": "concept",
-      "topic": "Writing files",
-      "path": "files/PY-094-writing-files",
-      "prerequisites": [
-        "PY-093"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-095",
       "level": 6,
       "kind": "concept",
-      "topic": "With statements and resource cleanup",
-      "path": "files/PY-095-with-statements-and-resource-cleanup",
+      "topic": "Reading files",
+      "path": "files/PY-095-reading-files",
       "prerequisites": [
-        "PY-094"
+        "CP-05"
       ],
       "hours": [
         3,
@@ -1680,8 +1680,8 @@
       "id": "PY-096",
       "level": 6,
       "kind": "concept",
-      "topic": "Paths with pathlib",
-      "path": "files/PY-096-paths-with-pathlib",
+      "topic": "Writing files",
+      "path": "files/PY-096-writing-files",
       "prerequisites": [
         "PY-095"
       ],
@@ -1695,8 +1695,8 @@
       "id": "PY-097",
       "level": 6,
       "kind": "concept",
-      "topic": "Directory operations",
-      "path": "files/PY-097-directory-operations",
+      "topic": "With statements and resource cleanup",
+      "path": "files/PY-097-with-statements-and-resource-cleanup",
       "prerequisites": [
         "PY-096"
       ],
@@ -1710,8 +1710,8 @@
       "id": "PY-098",
       "level": 6,
       "kind": "concept",
-      "topic": "JSON",
-      "path": "files/PY-098-json",
+      "topic": "Paths with pathlib",
+      "path": "files/PY-098-paths-with-pathlib",
       "prerequisites": [
         "PY-097"
       ],
@@ -1725,8 +1725,8 @@
       "id": "PY-099",
       "level": 6,
       "kind": "concept",
-      "topic": "CSV",
-      "path": "files/PY-099-csv",
+      "topic": "Directory operations",
+      "path": "files/PY-099-directory-operations",
       "prerequisites": [
         "PY-098"
       ],
@@ -1740,8 +1740,8 @@
       "id": "PY-100",
       "level": 6,
       "kind": "concept",
-      "topic": "YAML",
-      "path": "files/PY-100-yaml",
+      "topic": "JSON",
+      "path": "files/PY-100-json",
       "prerequisites": [
         "PY-099"
       ],
@@ -1755,8 +1755,8 @@
       "id": "PY-101",
       "level": 6,
       "kind": "concept",
-      "topic": "Configuration files",
-      "path": "files/PY-101-configuration-files",
+      "topic": "CSV",
+      "path": "files/PY-101-csv",
       "prerequisites": [
         "PY-100"
       ],
@@ -1770,10 +1770,40 @@
       "id": "PY-102",
       "level": 6,
       "kind": "concept",
-      "topic": "Serialization choices",
-      "path": "files/PY-102-serialization-choices",
+      "topic": "YAML",
+      "path": "files/PY-102-yaml",
       "prerequisites": [
         "PY-101"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-103",
+      "level": 6,
+      "kind": "concept",
+      "topic": "Configuration files",
+      "path": "files/PY-103-configuration-files",
+      "prerequisites": [
+        "PY-102"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-104",
+      "level": 6,
+      "kind": "concept",
+      "topic": "Serialization choices",
+      "path": "files/PY-104-serialization-choices",
+      "prerequisites": [
+        "PY-103"
       ],
       "hours": [
         3,
@@ -1789,7 +1819,7 @@
       "brief": "File persistence, JSON/CSV, and a documented data format.",
       "path": "projects/PRJ-005-expense-tracker",
       "prerequisites": [
-        "PY-102"
+        "PY-104"
       ],
       "hours": [
         12,
@@ -1801,7 +1831,7 @@
       "id": "CP-06",
       "level": 6,
       "kind": "checkpoint",
-      "topic": "Level 6 checkpoint — Files and Data",
+      "topic": "Level 6 checkpoint \u2014 Files and Data",
       "path": "assessments/CP-06",
       "prerequisites": [
         "PRJ-005"
@@ -1813,43 +1843,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-103",
-      "level": 7,
-      "kind": "concept",
-      "topic": "Errors versus exceptions",
-      "path": "exceptions/PY-103-errors-versus-exceptions",
-      "prerequisites": [
-        "CP-06"
-      ],
-      "hours": [
-        2,
-        4
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-104",
-      "level": 7,
-      "kind": "concept",
-      "topic": "Reading tracebacks",
-      "path": "exceptions/PY-104-reading-tracebacks",
-      "prerequisites": [
-        "PY-103"
-      ],
-      "hours": [
-        2,
-        4
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-105",
       "level": 7,
       "kind": "concept",
-      "topic": "Try and except",
-      "path": "exceptions/PY-105-try-and-except",
+      "topic": "Errors versus exceptions",
+      "path": "exceptions/PY-105-errors-versus-exceptions",
       "prerequisites": [
-        "PY-104"
+        "CP-06"
       ],
       "hours": [
         2,
@@ -1861,8 +1861,8 @@
       "id": "PY-106",
       "level": 7,
       "kind": "concept",
-      "topic": "Exception else",
-      "path": "exceptions/PY-106-exception-else",
+      "topic": "Reading tracebacks",
+      "path": "exceptions/PY-106-reading-tracebacks",
       "prerequisites": [
         "PY-105"
       ],
@@ -1876,8 +1876,8 @@
       "id": "PY-107",
       "level": 7,
       "kind": "concept",
-      "topic": "Finally",
-      "path": "exceptions/PY-107-finally",
+      "topic": "Try and except",
+      "path": "exceptions/PY-107-try-and-except",
       "prerequisites": [
         "PY-106"
       ],
@@ -1891,8 +1891,8 @@
       "id": "PY-108",
       "level": 7,
       "kind": "concept",
-      "topic": "Raise",
-      "path": "exceptions/PY-108-raise",
+      "topic": "Exception else",
+      "path": "exceptions/PY-108-exception-else",
       "prerequisites": [
         "PY-107"
       ],
@@ -1906,8 +1906,8 @@
       "id": "PY-109",
       "level": 7,
       "kind": "concept",
-      "topic": "Custom exceptions",
-      "path": "exceptions/PY-109-custom-exceptions",
+      "topic": "Finally",
+      "path": "exceptions/PY-109-finally",
       "prerequisites": [
         "PY-108"
       ],
@@ -1921,8 +1921,8 @@
       "id": "PY-110",
       "level": 7,
       "kind": "concept",
-      "topic": "Exception hierarchy",
-      "path": "exceptions/PY-110-exception-hierarchy",
+      "topic": "Raise",
+      "path": "exceptions/PY-110-raise",
       "prerequisites": [
         "PY-109"
       ],
@@ -1936,10 +1936,40 @@
       "id": "PY-111",
       "level": 7,
       "kind": "concept",
-      "topic": "Production error handling",
-      "path": "exceptions/PY-111-production-error-handling",
+      "topic": "Custom exceptions",
+      "path": "exceptions/PY-111-custom-exceptions",
       "prerequisites": [
         "PY-110"
+      ],
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-112",
+      "level": 7,
+      "kind": "concept",
+      "topic": "Exception hierarchy",
+      "path": "exceptions/PY-112-exception-hierarchy",
+      "prerequisites": [
+        "PY-111"
+      ],
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-113",
+      "level": 7,
+      "kind": "concept",
+      "topic": "Production error handling",
+      "path": "exceptions/PY-113-production-error-handling",
+      "prerequisites": [
+        "PY-112"
       ],
       "hours": [
         2,
@@ -1955,7 +1985,7 @@
       "brief": "Paths, explicit failure handling, preview mode, and safe sample files.",
       "path": "projects/PRJ-006-file-organizer",
       "prerequisites": [
-        "PY-111"
+        "PY-113"
       ],
       "hours": [
         12,
@@ -1967,7 +1997,7 @@
       "id": "CP-07",
       "level": 7,
       "kind": "checkpoint",
-      "topic": "Level 7 checkpoint — Exception Handling",
+      "topic": "Level 7 checkpoint \u2014 Exception Handling",
       "path": "assessments/CP-07",
       "prerequisites": [
         "PRJ-006"
@@ -1979,43 +2009,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-112",
-      "level": 8,
-      "kind": "concept",
-      "topic": "Classes",
-      "path": "oop/PY-112-classes",
-      "prerequisites": [
-        "CP-07"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-113",
-      "level": 8,
-      "kind": "concept",
-      "topic": "Objects",
-      "path": "oop/PY-113-objects",
-      "prerequisites": [
-        "PY-112"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-114",
       "level": 8,
       "kind": "concept",
-      "topic": "Constructors",
-      "path": "oop/PY-114-constructors",
+      "topic": "Classes",
+      "path": "oop/PY-114-classes",
       "prerequisites": [
-        "PY-113"
+        "CP-07"
       ],
       "hours": [
         3,
@@ -2027,8 +2027,8 @@
       "id": "PY-115",
       "level": 8,
       "kind": "concept",
-      "topic": "Attributes",
-      "path": "oop/PY-115-attributes",
+      "topic": "Objects",
+      "path": "oop/PY-115-objects",
       "prerequisites": [
         "PY-114"
       ],
@@ -2042,8 +2042,8 @@
       "id": "PY-116",
       "level": 8,
       "kind": "concept",
-      "topic": "Methods",
-      "path": "oop/PY-116-methods",
+      "topic": "Constructors",
+      "path": "oop/PY-116-constructors",
       "prerequisites": [
         "PY-115"
       ],
@@ -2057,8 +2057,8 @@
       "id": "PY-117",
       "level": 8,
       "kind": "concept",
-      "topic": "Instance variables",
-      "path": "oop/PY-117-instance-variables",
+      "topic": "Attributes",
+      "path": "oop/PY-117-attributes",
       "prerequisites": [
         "PY-116"
       ],
@@ -2072,8 +2072,8 @@
       "id": "PY-118",
       "level": 8,
       "kind": "concept",
-      "topic": "Class variables",
-      "path": "oop/PY-118-class-variables",
+      "topic": "Methods",
+      "path": "oop/PY-118-methods",
       "prerequisites": [
         "PY-117"
       ],
@@ -2087,8 +2087,8 @@
       "id": "PY-119",
       "level": 8,
       "kind": "concept",
-      "topic": "Instance methods",
-      "path": "oop/PY-119-instance-methods",
+      "topic": "Instance variables",
+      "path": "oop/PY-119-instance-variables",
       "prerequisites": [
         "PY-118"
       ],
@@ -2102,8 +2102,8 @@
       "id": "PY-120",
       "level": 8,
       "kind": "concept",
-      "topic": "Class methods",
-      "path": "oop/PY-120-class-methods",
+      "topic": "Class variables",
+      "path": "oop/PY-120-class-variables",
       "prerequisites": [
         "PY-119"
       ],
@@ -2117,8 +2117,8 @@
       "id": "PY-121",
       "level": 8,
       "kind": "concept",
-      "topic": "Static methods",
-      "path": "oop/PY-121-static-methods",
+      "topic": "Instance methods",
+      "path": "oop/PY-121-instance-methods",
       "prerequisites": [
         "PY-120"
       ],
@@ -2132,8 +2132,8 @@
       "id": "PY-122",
       "level": 8,
       "kind": "concept",
-      "topic": "Encapsulation",
-      "path": "oop/PY-122-encapsulation",
+      "topic": "Class methods",
+      "path": "oop/PY-122-class-methods",
       "prerequisites": [
         "PY-121"
       ],
@@ -2147,8 +2147,8 @@
       "id": "PY-123",
       "level": 8,
       "kind": "concept",
-      "topic": "Inheritance",
-      "path": "oop/PY-123-inheritance",
+      "topic": "Static methods",
+      "path": "oop/PY-123-static-methods",
       "prerequisites": [
         "PY-122"
       ],
@@ -2162,8 +2162,8 @@
       "id": "PY-124",
       "level": 8,
       "kind": "concept",
-      "topic": "Composition",
-      "path": "oop/PY-124-composition",
+      "topic": "Encapsulation",
+      "path": "oop/PY-124-encapsulation",
       "prerequisites": [
         "PY-123"
       ],
@@ -2177,8 +2177,8 @@
       "id": "PY-125",
       "level": 8,
       "kind": "concept",
-      "topic": "Polymorphism",
-      "path": "oop/PY-125-polymorphism",
+      "topic": "Inheritance",
+      "path": "oop/PY-125-inheritance",
       "prerequisites": [
         "PY-124"
       ],
@@ -2192,8 +2192,8 @@
       "id": "PY-126",
       "level": 8,
       "kind": "concept",
-      "topic": "Abstraction",
-      "path": "oop/PY-126-abstraction",
+      "topic": "Composition",
+      "path": "oop/PY-126-composition",
       "prerequisites": [
         "PY-125"
       ],
@@ -2207,8 +2207,8 @@
       "id": "PY-127",
       "level": 8,
       "kind": "concept",
-      "topic": "Properties",
-      "path": "oop/PY-127-properties",
+      "topic": "Polymorphism",
+      "path": "oop/PY-127-polymorphism",
       "prerequisites": [
         "PY-126"
       ],
@@ -2222,8 +2222,8 @@
       "id": "PY-128",
       "level": 8,
       "kind": "concept",
-      "topic": "Dunder methods",
-      "path": "oop/PY-128-dunder-methods",
+      "topic": "Abstraction",
+      "path": "oop/PY-128-abstraction",
       "prerequisites": [
         "PY-127"
       ],
@@ -2237,8 +2237,8 @@
       "id": "PY-129",
       "level": 8,
       "kind": "concept",
-      "topic": "Dataclass foundations",
-      "path": "oop/PY-129-dataclass-foundations",
+      "topic": "Properties",
+      "path": "oop/PY-129-properties",
       "prerequisites": [
         "PY-128"
       ],
@@ -2252,8 +2252,8 @@
       "id": "PY-130",
       "level": 8,
       "kind": "concept",
-      "topic": "Abstract classes",
-      "path": "oop/PY-130-abstract-classes",
+      "topic": "Dunder methods",
+      "path": "oop/PY-130-dunder-methods",
       "prerequisites": [
         "PY-129"
       ],
@@ -2267,8 +2267,8 @@
       "id": "PY-131",
       "level": 8,
       "kind": "concept",
-      "topic": "Method resolution order",
-      "path": "oop/PY-131-method-resolution-order",
+      "topic": "Dataclass foundations",
+      "path": "oop/PY-131-dataclass-foundations",
       "prerequisites": [
         "PY-130"
       ],
@@ -2282,8 +2282,8 @@
       "id": "PY-132",
       "level": 8,
       "kind": "concept",
-      "topic": "SOLID principles",
-      "path": "oop/PY-132-solid-principles",
+      "topic": "Abstract classes",
+      "path": "oop/PY-132-abstract-classes",
       "prerequisites": [
         "PY-131"
       ],
@@ -2294,6 +2294,81 @@
       "pass_score": 80
     },
     {
+      "id": "PY-133",
+      "level": 8,
+      "kind": "concept",
+      "topic": "Method resolution order",
+      "path": "oop/PY-133-method-resolution-order",
+      "prerequisites": [
+        "PY-132"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-134",
+      "level": 8,
+      "kind": "concept",
+      "topic": "SOLID principles",
+      "path": "oop/PY-134-solid-principles",
+      "prerequisites": [
+        "PY-133"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "level": 8,
+      "kind": "concept",
+      "topic": "Git branches",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-135",
+      "path": "oop/PY-135-git-branches",
+      "prerequisites": [
+        "PY-134"
+      ]
+    },
+    {
+      "level": 8,
+      "kind": "concept",
+      "topic": "Git pull requests",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-136",
+      "path": "oop/PY-136-git-pull-requests",
+      "prerequisites": [
+        "PY-135"
+      ]
+    },
+    {
+      "level": 8,
+      "kind": "concept",
+      "topic": "Git code review",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-137",
+      "path": "oop/PY-137-git-code-review",
+      "prerequisites": [
+        "PY-136"
+      ]
+    },
+    {
       "id": "PRJ-007",
       "level": 8,
       "kind": "project",
@@ -2301,7 +2376,7 @@
       "brief": "Modules, classes where appropriate, composition, and a clear entry point.",
       "path": "projects/PRJ-007-cli-application",
       "prerequisites": [
-        "PY-132"
+        "PY-137"
       ],
       "hours": [
         14,
@@ -2313,7 +2388,7 @@
       "id": "CP-08",
       "level": 8,
       "kind": "checkpoint",
-      "topic": "Level 8 checkpoint — Object-Oriented Programming",
+      "topic": "Level 8 checkpoint \u2014 Object-Oriented Programming",
       "path": "assessments/CP-08",
       "prerequisites": [
         "PRJ-007"
@@ -2325,88 +2400,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-133",
-      "level": 9,
-      "kind": "concept",
-      "topic": "Iterables",
-      "path": "advanced/PY-133-iterables",
-      "prerequisites": [
-        "CP-08"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-134",
-      "level": 9,
-      "kind": "concept",
-      "topic": "Iterators",
-      "path": "advanced/PY-134-iterators",
-      "prerequisites": [
-        "PY-133"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-135",
-      "level": 9,
-      "kind": "concept",
-      "topic": "Generators and yield",
-      "path": "advanced/PY-135-generators-and-yield",
-      "prerequisites": [
-        "PY-134"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-136",
-      "level": 9,
-      "kind": "concept",
-      "topic": "Generator expressions",
-      "path": "advanced/PY-136-generator-expressions",
-      "prerequisites": [
-        "PY-135"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-137",
-      "level": 9,
-      "kind": "concept",
-      "topic": "Advanced decorators",
-      "path": "advanced/PY-137-advanced-decorators",
-      "prerequisites": [
-        "PY-136"
-      ],
-      "hours": [
-        3,
-        6
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-138",
       "level": 9,
       "kind": "concept",
-      "topic": "Closure patterns",
-      "path": "advanced/PY-138-closure-patterns",
+      "topic": "Iterables",
+      "path": "advanced/PY-138-iterables",
       "prerequisites": [
-        "PY-137"
+        "CP-08"
       ],
       "hours": [
         3,
@@ -2418,8 +2418,8 @@
       "id": "PY-139",
       "level": 9,
       "kind": "concept",
-      "topic": "Custom context managers",
-      "path": "advanced/PY-139-custom-context-managers",
+      "topic": "Iterators",
+      "path": "advanced/PY-139-iterators",
       "prerequisites": [
         "PY-138"
       ],
@@ -2433,8 +2433,8 @@
       "id": "PY-140",
       "level": 9,
       "kind": "concept",
-      "topic": "Type hints",
-      "path": "advanced/PY-140-type-hints",
+      "topic": "Generators and yield",
+      "path": "advanced/PY-140-generators-and-yield",
       "prerequisites": [
         "PY-139"
       ],
@@ -2448,8 +2448,8 @@
       "id": "PY-141",
       "level": 9,
       "kind": "concept",
-      "topic": "Generics",
-      "path": "advanced/PY-141-generics",
+      "topic": "Generator expressions",
+      "path": "advanced/PY-141-generator-expressions",
       "prerequisites": [
         "PY-140"
       ],
@@ -2463,8 +2463,8 @@
       "id": "PY-142",
       "level": 9,
       "kind": "concept",
-      "topic": "Enums",
-      "path": "advanced/PY-142-enums",
+      "topic": "Advanced decorators",
+      "path": "advanced/PY-142-advanced-decorators",
       "prerequisites": [
         "PY-141"
       ],
@@ -2478,8 +2478,8 @@
       "id": "PY-143",
       "level": 9,
       "kind": "concept",
-      "topic": "Dataclass patterns",
-      "path": "advanced/PY-143-dataclass-patterns",
+      "topic": "Closure patterns",
+      "path": "advanced/PY-143-closure-patterns",
       "prerequisites": [
         "PY-142"
       ],
@@ -2493,8 +2493,8 @@
       "id": "PY-144",
       "level": 9,
       "kind": "concept",
-      "topic": "Structural pattern matching",
-      "path": "advanced/PY-144-structural-pattern-matching",
+      "topic": "Custom context managers",
+      "path": "advanced/PY-144-custom-context-managers",
       "prerequisites": [
         "PY-143"
       ],
@@ -2508,8 +2508,8 @@
       "id": "PY-145",
       "level": 9,
       "kind": "concept",
-      "topic": "Collections",
-      "path": "advanced/PY-145-collections",
+      "topic": "Type hints",
+      "path": "advanced/PY-145-type-hints",
       "prerequisites": [
         "PY-144"
       ],
@@ -2523,8 +2523,8 @@
       "id": "PY-146",
       "level": 9,
       "kind": "concept",
-      "topic": "Functools",
-      "path": "advanced/PY-146-functools",
+      "topic": "Generics",
+      "path": "advanced/PY-146-generics",
       "prerequisites": [
         "PY-145"
       ],
@@ -2538,10 +2538,85 @@
       "id": "PY-147",
       "level": 9,
       "kind": "concept",
-      "topic": "Itertools",
-      "path": "advanced/PY-147-itertools",
+      "topic": "Enums",
+      "path": "advanced/PY-147-enums",
       "prerequisites": [
         "PY-146"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-148",
+      "level": 9,
+      "kind": "concept",
+      "topic": "Dataclass patterns",
+      "path": "advanced/PY-148-dataclass-patterns",
+      "prerequisites": [
+        "PY-147"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-149",
+      "level": 9,
+      "kind": "concept",
+      "topic": "Structural pattern matching",
+      "path": "advanced/PY-149-structural-pattern-matching",
+      "prerequisites": [
+        "PY-148"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-150",
+      "level": 9,
+      "kind": "concept",
+      "topic": "Collections",
+      "path": "advanced/PY-150-collections",
+      "prerequisites": [
+        "PY-149"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-151",
+      "level": 9,
+      "kind": "concept",
+      "topic": "Functools",
+      "path": "advanced/PY-151-functools",
+      "prerequisites": [
+        "PY-150"
+      ],
+      "hours": [
+        3,
+        6
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-152",
+      "level": 9,
+      "kind": "concept",
+      "topic": "Itertools",
+      "path": "advanced/PY-152-itertools",
+      "prerequisites": [
+        "PY-151"
       ],
       "hours": [
         3,
@@ -2553,10 +2628,10 @@
       "id": "CP-09",
       "level": 9,
       "kind": "checkpoint",
-      "topic": "Level 9 checkpoint — Advanced Python",
+      "topic": "Level 9 checkpoint \u2014 Advanced Python",
       "path": "assessments/CP-09",
       "prerequisites": [
-        "PY-147"
+        "PY-152"
       ],
       "hours": [
         6,
@@ -2565,88 +2640,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-148",
-      "level": 10,
-      "kind": "concept",
-      "topic": "CPython basics",
-      "path": "internals/PY-148-cpython-basics",
-      "prerequisites": [
-        "CP-09"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-149",
-      "level": 10,
-      "kind": "concept",
-      "topic": "Python execution model",
-      "path": "internals/PY-149-python-execution-model",
-      "prerequisites": [
-        "PY-148"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-150",
-      "level": 10,
-      "kind": "concept",
-      "topic": "Bytecode",
-      "path": "internals/PY-150-bytecode",
-      "prerequisites": [
-        "PY-149"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-151",
-      "level": 10,
-      "kind": "concept",
-      "topic": "Stack frames",
-      "path": "internals/PY-151-stack-frames",
-      "prerequisites": [
-        "PY-150"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-152",
-      "level": 10,
-      "kind": "concept",
-      "topic": "Namespaces",
-      "path": "internals/PY-152-namespaces",
-      "prerequisites": [
-        "PY-151"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-153",
       "level": 10,
       "kind": "concept",
-      "topic": "Object model",
-      "path": "internals/PY-153-object-model",
+      "topic": "CPython basics",
+      "path": "internals/PY-153-cpython-basics",
       "prerequisites": [
-        "PY-152"
+        "CP-09"
       ],
       "hours": [
         3,
@@ -2658,8 +2658,8 @@
       "id": "PY-154",
       "level": 10,
       "kind": "concept",
-      "topic": "References",
-      "path": "internals/PY-154-references",
+      "topic": "Python execution model",
+      "path": "internals/PY-154-python-execution-model",
       "prerequisites": [
         "PY-153"
       ],
@@ -2673,8 +2673,8 @@
       "id": "PY-155",
       "level": 10,
       "kind": "concept",
-      "topic": "Identity and object lifetime",
-      "path": "internals/PY-155-identity-and-object-lifetime",
+      "topic": "Bytecode",
+      "path": "internals/PY-155-bytecode",
       "prerequisites": [
         "PY-154"
       ],
@@ -2688,8 +2688,8 @@
       "id": "PY-156",
       "level": 10,
       "kind": "concept",
-      "topic": "Mutability and aliasing",
-      "path": "internals/PY-156-mutability-and-aliasing",
+      "topic": "Stack frames",
+      "path": "internals/PY-156-stack-frames",
       "prerequisites": [
         "PY-155"
       ],
@@ -2703,8 +2703,8 @@
       "id": "PY-157",
       "level": 10,
       "kind": "concept",
-      "topic": "Memory management",
-      "path": "internals/PY-157-memory-management",
+      "topic": "Namespaces",
+      "path": "internals/PY-157-namespaces",
       "prerequisites": [
         "PY-156"
       ],
@@ -2718,8 +2718,8 @@
       "id": "PY-158",
       "level": 10,
       "kind": "concept",
-      "topic": "Reference counting",
-      "path": "internals/PY-158-reference-counting",
+      "topic": "Object model",
+      "path": "internals/PY-158-object-model",
       "prerequisites": [
         "PY-157"
       ],
@@ -2733,8 +2733,8 @@
       "id": "PY-159",
       "level": 10,
       "kind": "concept",
-      "topic": "Garbage collection",
-      "path": "internals/PY-159-garbage-collection",
+      "topic": "References",
+      "path": "internals/PY-159-references",
       "prerequisites": [
         "PY-158"
       ],
@@ -2748,8 +2748,8 @@
       "id": "PY-160",
       "level": 10,
       "kind": "concept",
-      "topic": "Shallow copying",
-      "path": "internals/PY-160-shallow-copying",
+      "topic": "Identity and object lifetime",
+      "path": "internals/PY-160-identity-and-object-lifetime",
       "prerequisites": [
         "PY-159"
       ],
@@ -2763,8 +2763,8 @@
       "id": "PY-161",
       "level": 10,
       "kind": "concept",
-      "topic": "Deep copying",
-      "path": "internals/PY-161-deep-copying",
+      "topic": "Mutability and aliasing",
+      "path": "internals/PY-161-mutability-and-aliasing",
       "prerequisites": [
         "PY-160"
       ],
@@ -2778,8 +2778,8 @@
       "id": "PY-162",
       "level": 10,
       "kind": "concept",
-      "topic": "GIL and interpreter build differences",
-      "path": "internals/PY-162-gil-and-interpreter-build-differences",
+      "topic": "Memory management",
+      "path": "internals/PY-162-memory-management",
       "prerequisites": [
         "PY-161"
       ],
@@ -2790,28 +2790,13 @@
       "pass_score": 80
     },
     {
-      "id": "CP-10",
+      "id": "PY-163",
       "level": 10,
-      "kind": "checkpoint",
-      "topic": "Level 10 checkpoint — Python Internals",
-      "path": "assessments/CP-10",
+      "kind": "concept",
+      "topic": "Reference counting",
+      "path": "internals/PY-163-reference-counting",
       "prerequisites": [
         "PY-162"
-      ],
-      "hours": [
-        6,
-        10
-      ],
-      "pass_score": 85
-    },
-    {
-      "id": "PY-163",
-      "level": 11,
-      "kind": "concept",
-      "topic": "Assertions",
-      "path": "testing/PY-163-assertions",
-      "prerequisites": [
-        "CP-10"
       ],
       "hours": [
         3,
@@ -2821,10 +2806,10 @@
     },
     {
       "id": "PY-164",
-      "level": 11,
+      "level": 10,
       "kind": "concept",
-      "topic": "Unit testing",
-      "path": "testing/PY-164-unit-testing",
+      "topic": "Garbage collection",
+      "path": "internals/PY-164-garbage-collection",
       "prerequisites": [
         "PY-163"
       ],
@@ -2836,10 +2821,10 @@
     },
     {
       "id": "PY-165",
-      "level": 11,
+      "level": 10,
       "kind": "concept",
-      "topic": "Pytest",
-      "path": "testing/PY-165-pytest",
+      "topic": "Shallow copying",
+      "path": "internals/PY-165-shallow-copying",
       "prerequisites": [
         "PY-164"
       ],
@@ -2851,10 +2836,10 @@
     },
     {
       "id": "PY-166",
-      "level": 11,
+      "level": 10,
       "kind": "concept",
-      "topic": "Fixtures",
-      "path": "testing/PY-166-fixtures",
+      "topic": "Deep copying",
+      "path": "internals/PY-166-deep-copying",
       "prerequisites": [
         "PY-165"
       ],
@@ -2866,10 +2851,10 @@
     },
     {
       "id": "PY-167",
-      "level": 11,
+      "level": 10,
       "kind": "concept",
-      "topic": "Parameterization",
-      "path": "testing/PY-167-parameterization",
+      "topic": "GIL and interpreter build differences",
+      "path": "internals/PY-167-gil-and-interpreter-build-differences",
       "prerequisites": [
         "PY-166"
       ],
@@ -2880,13 +2865,28 @@
       "pass_score": 80
     },
     {
+      "id": "CP-10",
+      "level": 10,
+      "kind": "checkpoint",
+      "topic": "Level 10 checkpoint \u2014 Python Internals",
+      "path": "assessments/CP-10",
+      "prerequisites": [
+        "PY-167"
+      ],
+      "hours": [
+        6,
+        10
+      ],
+      "pass_score": 85
+    },
+    {
       "id": "PY-168",
       "level": 11,
       "kind": "concept",
-      "topic": "Mocking",
-      "path": "testing/PY-168-mocking",
+      "topic": "Assertions",
+      "path": "testing/PY-168-assertions",
       "prerequisites": [
-        "PY-167"
+        "CP-10"
       ],
       "hours": [
         3,
@@ -2898,8 +2898,8 @@
       "id": "PY-169",
       "level": 11,
       "kind": "concept",
-      "topic": "Integration testing",
-      "path": "testing/PY-169-integration-testing",
+      "topic": "Unit testing",
+      "path": "testing/PY-169-unit-testing",
       "prerequisites": [
         "PY-168"
       ],
@@ -2913,8 +2913,8 @@
       "id": "PY-170",
       "level": 11,
       "kind": "concept",
-      "topic": "Coverage",
-      "path": "testing/PY-170-coverage",
+      "topic": "Pytest",
+      "path": "testing/PY-170-pytest",
       "prerequisites": [
         "PY-169"
       ],
@@ -2928,8 +2928,8 @@
       "id": "PY-171",
       "level": 11,
       "kind": "concept",
-      "topic": "Test organization",
-      "path": "testing/PY-171-test-organization",
+      "topic": "Fixtures",
+      "path": "testing/PY-171-fixtures",
       "prerequisites": [
         "PY-170"
       ],
@@ -2943,8 +2943,8 @@
       "id": "PY-172",
       "level": 11,
       "kind": "concept",
-      "topic": "Test-driven thinking",
-      "path": "testing/PY-172-test-driven-thinking",
+      "topic": "Parameterization",
+      "path": "testing/PY-172-parameterization",
       "prerequisites": [
         "PY-171"
       ],
@@ -2955,28 +2955,13 @@
       "pass_score": 80
     },
     {
-      "id": "CP-11",
+      "id": "PY-173",
       "level": 11,
-      "kind": "checkpoint",
-      "topic": "Level 11 checkpoint — Testing",
-      "path": "assessments/CP-11",
+      "kind": "concept",
+      "topic": "Mocking",
+      "path": "testing/PY-173-mocking",
       "prerequisites": [
         "PY-172"
-      ],
-      "hours": [
-        6,
-        10
-      ],
-      "pass_score": 85
-    },
-    {
-      "id": "PY-173",
-      "level": 12,
-      "kind": "concept",
-      "topic": "Traceback-led debugging",
-      "path": "code-quality/PY-173-traceback-led-debugging",
-      "prerequisites": [
-        "CP-11"
       ],
       "hours": [
         3,
@@ -2986,10 +2971,10 @@
     },
     {
       "id": "PY-174",
-      "level": 12,
+      "level": 11,
       "kind": "concept",
-      "topic": "Debugging methodology",
-      "path": "code-quality/PY-174-debugging-methodology",
+      "topic": "Integration testing",
+      "path": "testing/PY-174-integration-testing",
       "prerequisites": [
         "PY-173"
       ],
@@ -3001,10 +2986,10 @@
     },
     {
       "id": "PY-175",
-      "level": 12,
+      "level": 11,
       "kind": "concept",
-      "topic": "Pdb",
-      "path": "code-quality/PY-175-pdb",
+      "topic": "Coverage",
+      "path": "testing/PY-175-coverage",
       "prerequisites": [
         "PY-174"
       ],
@@ -3016,10 +3001,10 @@
     },
     {
       "id": "PY-176",
-      "level": 12,
+      "level": 11,
       "kind": "concept",
-      "topic": "Logging",
-      "path": "code-quality/PY-176-logging",
+      "topic": "Test organization",
+      "path": "testing/PY-176-test-organization",
       "prerequisites": [
         "PY-175"
       ],
@@ -3031,10 +3016,10 @@
     },
     {
       "id": "PY-177",
-      "level": 12,
+      "level": 11,
       "kind": "concept",
-      "topic": "Log levels",
-      "path": "code-quality/PY-177-log-levels",
+      "topic": "Test-driven thinking",
+      "path": "testing/PY-177-test-driven-thinking",
       "prerequisites": [
         "PY-176"
       ],
@@ -3045,43 +3030,58 @@
       "pass_score": 80
     },
     {
-      "id": "PY-178",
-      "level": 12,
+      "level": 11,
       "kind": "concept",
-      "topic": "Structured logging",
-      "path": "code-quality/PY-178-structured-logging",
+      "topic": "Git merge",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-178",
+      "path": "testing/PY-178-git-merge",
       "prerequisites": [
         "PY-177"
-      ],
-      "hours": [
-        3,
-        5
-      ],
-      "pass_score": 80
+      ]
     },
     {
-      "id": "PY-179",
-      "level": 12,
+      "level": 11,
       "kind": "concept",
-      "topic": "PEP 8",
-      "path": "code-quality/PY-179-pep-8",
+      "topic": "Git conflict resolution",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-179",
+      "path": "testing/PY-179-git-conflict-resolution",
       "prerequisites": [
         "PY-178"
+      ]
+    },
+    {
+      "id": "CP-11",
+      "level": 11,
+      "kind": "checkpoint",
+      "topic": "Level 11 checkpoint \u2014 Testing",
+      "path": "assessments/CP-11",
+      "prerequisites": [
+        "PY-179"
       ],
       "hours": [
-        3,
-        5
+        6,
+        10
       ],
-      "pass_score": 80
+      "pass_score": 85
     },
     {
       "id": "PY-180",
       "level": 12,
       "kind": "concept",
-      "topic": "Linting",
-      "path": "code-quality/PY-180-linting",
+      "topic": "Traceback-led debugging",
+      "path": "code-quality/PY-180-traceback-led-debugging",
       "prerequisites": [
-        "PY-179"
+        "CP-11"
       ],
       "hours": [
         3,
@@ -3093,8 +3093,8 @@
       "id": "PY-181",
       "level": 12,
       "kind": "concept",
-      "topic": "Formatting",
-      "path": "code-quality/PY-181-formatting",
+      "topic": "Debugging methodology",
+      "path": "code-quality/PY-181-debugging-methodology",
       "prerequisites": [
         "PY-180"
       ],
@@ -3108,8 +3108,8 @@
       "id": "PY-182",
       "level": 12,
       "kind": "concept",
-      "topic": "Type checking",
-      "path": "code-quality/PY-182-type-checking",
+      "topic": "Pdb",
+      "path": "code-quality/PY-182-pdb",
       "prerequisites": [
         "PY-181"
       ],
@@ -3123,8 +3123,8 @@
       "id": "PY-183",
       "level": 12,
       "kind": "concept",
-      "topic": "Refactoring",
-      "path": "code-quality/PY-183-refactoring",
+      "topic": "Logging",
+      "path": "code-quality/PY-183-logging",
       "prerequisites": [
         "PY-182"
       ],
@@ -3138,8 +3138,8 @@
       "id": "PY-184",
       "level": 12,
       "kind": "concept",
-      "topic": "Clean code",
-      "path": "code-quality/PY-184-clean-code",
+      "topic": "Log levels",
+      "path": "code-quality/PY-184-log-levels",
       "prerequisites": [
         "PY-183"
       ],
@@ -3150,6 +3150,126 @@
       "pass_score": 80
     },
     {
+      "id": "PY-185",
+      "level": 12,
+      "kind": "concept",
+      "topic": "Structured logging",
+      "path": "code-quality/PY-185-structured-logging",
+      "prerequisites": [
+        "PY-184"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-186",
+      "level": 12,
+      "kind": "concept",
+      "topic": "PEP 8",
+      "path": "code-quality/PY-186-pep-8",
+      "prerequisites": [
+        "PY-185"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-187",
+      "level": 12,
+      "kind": "concept",
+      "topic": "Linting",
+      "path": "code-quality/PY-187-linting",
+      "prerequisites": [
+        "PY-186"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-188",
+      "level": 12,
+      "kind": "concept",
+      "topic": "Formatting",
+      "path": "code-quality/PY-188-formatting",
+      "prerequisites": [
+        "PY-187"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-189",
+      "level": 12,
+      "kind": "concept",
+      "topic": "Type checking",
+      "path": "code-quality/PY-189-type-checking",
+      "prerequisites": [
+        "PY-188"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-190",
+      "level": 12,
+      "kind": "concept",
+      "topic": "Refactoring",
+      "path": "code-quality/PY-190-refactoring",
+      "prerequisites": [
+        "PY-189"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-191",
+      "level": 12,
+      "kind": "concept",
+      "topic": "Clean code",
+      "path": "code-quality/PY-191-clean-code",
+      "prerequisites": [
+        "PY-190"
+      ],
+      "hours": [
+        3,
+        5
+      ],
+      "pass_score": 80
+    },
+    {
+      "level": 12,
+      "kind": "concept",
+      "topic": "Git rebase basics",
+      "hours": [
+        2,
+        4
+      ],
+      "pass_score": 80,
+      "id": "PY-192",
+      "path": "code-quality/PY-192-git-rebase-basics",
+      "prerequisites": [
+        "PY-191"
+      ]
+    },
+    {
       "id": "PRJ-008",
       "level": 12,
       "kind": "project",
@@ -3157,7 +3277,7 @@
       "brief": "Parsing, debugging, automated tests, logging, and refactoring.",
       "path": "projects/PRJ-008-log-analyzer",
       "prerequisites": [
-        "PY-184"
+        "PY-192"
       ],
       "hours": [
         16,
@@ -3169,7 +3289,7 @@
       "id": "CP-12",
       "level": 12,
       "kind": "checkpoint",
-      "topic": "Level 12 checkpoint — Debugging and Code Quality",
+      "topic": "Level 12 checkpoint \u2014 Debugging and Code Quality",
       "path": "assessments/CP-12",
       "prerequisites": [
         "PRJ-008"
@@ -3181,133 +3301,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-185",
-      "level": 13,
-      "kind": "concept",
-      "topic": "SQL fundamentals",
-      "path": "databases/PY-185-sql-fundamentals",
-      "prerequisites": [
-        "CP-12"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-186",
-      "level": 13,
-      "kind": "concept",
-      "topic": "SQLite",
-      "path": "databases/PY-186-sqlite",
-      "prerequisites": [
-        "PY-185"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-187",
-      "level": 13,
-      "kind": "concept",
-      "topic": "Python database connections",
-      "path": "databases/PY-187-python-database-connections",
-      "prerequisites": [
-        "PY-186"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-188",
-      "level": 13,
-      "kind": "concept",
-      "topic": "CRUD",
-      "path": "databases/PY-188-crud",
-      "prerequisites": [
-        "PY-187"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-189",
-      "level": 13,
-      "kind": "concept",
-      "topic": "Transactions",
-      "path": "databases/PY-189-transactions",
-      "prerequisites": [
-        "PY-188"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-190",
-      "level": 13,
-      "kind": "concept",
-      "topic": "Parameterized queries",
-      "path": "databases/PY-190-parameterized-queries",
-      "prerequisites": [
-        "PY-189"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-191",
-      "level": 13,
-      "kind": "concept",
-      "topic": "SQL injection prevention",
-      "path": "databases/PY-191-sql-injection-prevention",
-      "prerequisites": [
-        "PY-190"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-192",
-      "level": 13,
-      "kind": "concept",
-      "topic": "PostgreSQL",
-      "path": "databases/PY-192-postgresql",
-      "prerequisites": [
-        "PY-191"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-193",
       "level": 13,
       "kind": "concept",
-      "topic": "Connection pooling",
-      "path": "databases/PY-193-connection-pooling",
+      "topic": "SQL fundamentals",
+      "path": "databases/PY-193-sql-fundamentals",
       "prerequisites": [
-        "PY-192"
+        "CP-12"
       ],
       "hours": [
         4,
@@ -3319,8 +3319,8 @@
       "id": "PY-194",
       "level": 13,
       "kind": "concept",
-      "topic": "ORM concepts",
-      "path": "databases/PY-194-orm-concepts",
+      "topic": "SQLite",
+      "path": "databases/PY-194-sqlite",
       "prerequisites": [
         "PY-193"
       ],
@@ -3334,8 +3334,8 @@
       "id": "PY-195",
       "level": 13,
       "kind": "concept",
-      "topic": "SQLAlchemy",
-      "path": "databases/PY-195-sqlalchemy",
+      "topic": "Python database connections",
+      "path": "databases/PY-195-python-database-connections",
       "prerequisites": [
         "PY-194"
       ],
@@ -3349,10 +3349,130 @@
       "id": "PY-196",
       "level": 13,
       "kind": "concept",
-      "topic": "Database migrations",
-      "path": "databases/PY-196-database-migrations",
+      "topic": "CRUD",
+      "path": "databases/PY-196-crud",
       "prerequisites": [
         "PY-195"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-197",
+      "level": 13,
+      "kind": "concept",
+      "topic": "Transactions",
+      "path": "databases/PY-197-transactions",
+      "prerequisites": [
+        "PY-196"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-198",
+      "level": 13,
+      "kind": "concept",
+      "topic": "Parameterized queries",
+      "path": "databases/PY-198-parameterized-queries",
+      "prerequisites": [
+        "PY-197"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-199",
+      "level": 13,
+      "kind": "concept",
+      "topic": "SQL injection prevention",
+      "path": "databases/PY-199-sql-injection-prevention",
+      "prerequisites": [
+        "PY-198"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-200",
+      "level": 13,
+      "kind": "concept",
+      "topic": "PostgreSQL",
+      "path": "databases/PY-200-postgresql",
+      "prerequisites": [
+        "PY-199"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-201",
+      "level": 13,
+      "kind": "concept",
+      "topic": "Connection pooling",
+      "path": "databases/PY-201-connection-pooling",
+      "prerequisites": [
+        "PY-200"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-202",
+      "level": 13,
+      "kind": "concept",
+      "topic": "ORM concepts",
+      "path": "databases/PY-202-orm-concepts",
+      "prerequisites": [
+        "PY-201"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-203",
+      "level": 13,
+      "kind": "concept",
+      "topic": "SQLAlchemy",
+      "path": "databases/PY-203-sqlalchemy",
+      "prerequisites": [
+        "PY-202"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-204",
+      "level": 13,
+      "kind": "concept",
+      "topic": "Database migrations",
+      "path": "databases/PY-204-database-migrations",
+      "prerequisites": [
+        "PY-203"
       ],
       "hours": [
         4,
@@ -3368,7 +3488,7 @@
       "brief": "CRUD, transactions, parameterized queries, and migrations.",
       "path": "projects/PRJ-009-database-backed-application",
       "prerequisites": [
-        "PY-196"
+        "PY-204"
       ],
       "hours": [
         18,
@@ -3380,7 +3500,7 @@
       "id": "CP-13",
       "level": 13,
       "kind": "checkpoint",
-      "topic": "Level 13 checkpoint — Databases",
+      "topic": "Level 13 checkpoint \u2014 Databases",
       "path": "assessments/CP-13",
       "prerequisites": [
         "PRJ-009"
@@ -3392,133 +3512,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-197",
-      "level": 14,
-      "kind": "concept",
-      "topic": "Networking fundamentals",
-      "path": "api/PY-197-networking-fundamentals",
-      "prerequisites": [
-        "CP-13"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-198",
-      "level": 14,
-      "kind": "concept",
-      "topic": "HTTP",
-      "path": "api/PY-198-http",
-      "prerequisites": [
-        "PY-197"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-199",
-      "level": 14,
-      "kind": "concept",
-      "topic": "Requests and responses",
-      "path": "api/PY-199-requests-and-responses",
-      "prerequisites": [
-        "PY-198"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-200",
-      "level": 14,
-      "kind": "concept",
-      "topic": "Headers",
-      "path": "api/PY-200-headers",
-      "prerequisites": [
-        "PY-199"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-201",
-      "level": 14,
-      "kind": "concept",
-      "topic": "HTTP methods",
-      "path": "api/PY-201-http-methods",
-      "prerequisites": [
-        "PY-200"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-202",
-      "level": 14,
-      "kind": "concept",
-      "topic": "Status codes",
-      "path": "api/PY-202-status-codes",
-      "prerequisites": [
-        "PY-201"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-203",
-      "level": 14,
-      "kind": "concept",
-      "topic": "JSON over HTTP",
-      "path": "api/PY-203-json-over-http",
-      "prerequisites": [
-        "PY-202"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-204",
-      "level": 14,
-      "kind": "concept",
-      "topic": "REST",
-      "path": "api/PY-204-rest",
-      "prerequisites": [
-        "PY-203"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-205",
       "level": 14,
       "kind": "concept",
-      "topic": "Authentication",
-      "path": "api/PY-205-authentication",
+      "topic": "Networking fundamentals",
+      "path": "api/PY-205-networking-fundamentals",
       "prerequisites": [
-        "PY-204"
+        "CP-13"
       ],
       "hours": [
         4,
@@ -3530,8 +3530,8 @@
       "id": "PY-206",
       "level": 14,
       "kind": "concept",
-      "topic": "API keys",
-      "path": "api/PY-206-api-keys",
+      "topic": "HTTP",
+      "path": "api/PY-206-http",
       "prerequisites": [
         "PY-205"
       ],
@@ -3545,8 +3545,8 @@
       "id": "PY-207",
       "level": 14,
       "kind": "concept",
-      "topic": "Tokens",
-      "path": "api/PY-207-tokens",
+      "topic": "Requests and responses",
+      "path": "api/PY-207-requests-and-responses",
       "prerequisites": [
         "PY-206"
       ],
@@ -3560,8 +3560,8 @@
       "id": "PY-208",
       "level": 14,
       "kind": "concept",
-      "topic": "Pagination",
-      "path": "api/PY-208-pagination",
+      "topic": "Headers",
+      "path": "api/PY-208-headers",
       "prerequisites": [
         "PY-207"
       ],
@@ -3575,8 +3575,8 @@
       "id": "PY-209",
       "level": 14,
       "kind": "concept",
-      "topic": "Rate limiting",
-      "path": "api/PY-209-rate-limiting",
+      "topic": "HTTP methods",
+      "path": "api/PY-209-http-methods",
       "prerequisites": [
         "PY-208"
       ],
@@ -3590,8 +3590,8 @@
       "id": "PY-210",
       "level": 14,
       "kind": "concept",
-      "topic": "Retries",
-      "path": "api/PY-210-retries",
+      "topic": "Status codes",
+      "path": "api/PY-210-status-codes",
       "prerequisites": [
         "PY-209"
       ],
@@ -3605,8 +3605,8 @@
       "id": "PY-211",
       "level": 14,
       "kind": "concept",
-      "topic": "Requests library",
-      "path": "api/PY-211-requests-library",
+      "topic": "JSON over HTTP",
+      "path": "api/PY-211-json-over-http",
       "prerequisites": [
         "PY-210"
       ],
@@ -3620,8 +3620,8 @@
       "id": "PY-212",
       "level": 14,
       "kind": "concept",
-      "topic": "Httpx",
-      "path": "api/PY-212-httpx",
+      "topic": "REST",
+      "path": "api/PY-212-rest",
       "prerequisites": [
         "PY-211"
       ],
@@ -3635,8 +3635,8 @@
       "id": "PY-213",
       "level": 14,
       "kind": "concept",
-      "topic": "FastAPI foundations",
-      "path": "api/PY-213-fastapi-foundations",
+      "topic": "Authentication",
+      "path": "api/PY-213-authentication",
       "prerequisites": [
         "PY-212"
       ],
@@ -3650,8 +3650,8 @@
       "id": "PY-214",
       "level": 14,
       "kind": "concept",
-      "topic": "FastAPI validation",
-      "path": "api/PY-214-fastapi-validation",
+      "topic": "API keys",
+      "path": "api/PY-214-api-keys",
       "prerequisites": [
         "PY-213"
       ],
@@ -3665,8 +3665,8 @@
       "id": "PY-215",
       "level": 14,
       "kind": "concept",
-      "topic": "FastAPI dependency injection",
-      "path": "api/PY-215-fastapi-dependency-injection",
+      "topic": "Tokens",
+      "path": "api/PY-215-tokens",
       "prerequisites": [
         "PY-214"
       ],
@@ -3680,10 +3680,130 @@
       "id": "PY-216",
       "level": 14,
       "kind": "concept",
-      "topic": "FastAPI testing",
-      "path": "api/PY-216-fastapi-testing",
+      "topic": "Pagination",
+      "path": "api/PY-216-pagination",
       "prerequisites": [
         "PY-215"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-217",
+      "level": 14,
+      "kind": "concept",
+      "topic": "Rate limiting",
+      "path": "api/PY-217-rate-limiting",
+      "prerequisites": [
+        "PY-216"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-218",
+      "level": 14,
+      "kind": "concept",
+      "topic": "Retries",
+      "path": "api/PY-218-retries",
+      "prerequisites": [
+        "PY-217"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-219",
+      "level": 14,
+      "kind": "concept",
+      "topic": "Requests library",
+      "path": "api/PY-219-requests-library",
+      "prerequisites": [
+        "PY-218"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-220",
+      "level": 14,
+      "kind": "concept",
+      "topic": "Httpx",
+      "path": "api/PY-220-httpx",
+      "prerequisites": [
+        "PY-219"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-221",
+      "level": 14,
+      "kind": "concept",
+      "topic": "FastAPI foundations",
+      "path": "api/PY-221-fastapi-foundations",
+      "prerequisites": [
+        "PY-220"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-222",
+      "level": 14,
+      "kind": "concept",
+      "topic": "FastAPI validation",
+      "path": "api/PY-222-fastapi-validation",
+      "prerequisites": [
+        "PY-221"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-223",
+      "level": 14,
+      "kind": "concept",
+      "topic": "FastAPI dependency injection",
+      "path": "api/PY-223-fastapi-dependency-injection",
+      "prerequisites": [
+        "PY-222"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-224",
+      "level": 14,
+      "kind": "concept",
+      "topic": "FastAPI testing",
+      "path": "api/PY-224-fastapi-testing",
+      "prerequisites": [
+        "PY-223"
       ],
       "hours": [
         4,
@@ -3699,7 +3819,7 @@
       "brief": "Pagination, authentication configuration, retries, and an API service.",
       "path": "projects/PRJ-010-api-client-and-rest-api",
       "prerequisites": [
-        "PY-216"
+        "PY-224"
       ],
       "hours": [
         20,
@@ -3711,7 +3831,7 @@
       "id": "CP-14",
       "level": 14,
       "kind": "checkpoint",
-      "topic": "Level 14 checkpoint — HTTP and APIs",
+      "topic": "Level 14 checkpoint \u2014 HTTP and APIs",
       "path": "assessments/CP-14",
       "prerequisites": [
         "PRJ-010"
@@ -3723,133 +3843,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-217",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Sequential execution",
-      "path": "concurrency/PY-217-sequential-execution",
-      "prerequisites": [
-        "CP-14"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-218",
-      "level": 15,
-      "kind": "concept",
-      "topic": "CPU-bound versus I/O-bound work",
-      "path": "concurrency/PY-218-cpu-bound-versus-i-o-bound-work",
-      "prerequisites": [
-        "PY-217"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-219",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Threads",
-      "path": "concurrency/PY-219-threads",
-      "prerequisites": [
-        "PY-218"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-220",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Threading primitives",
-      "path": "concurrency/PY-220-threading-primitives",
-      "prerequisites": [
-        "PY-219"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-221",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Locks",
-      "path": "concurrency/PY-221-locks",
-      "prerequisites": [
-        "PY-220"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-222",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Race conditions",
-      "path": "concurrency/PY-222-race-conditions",
-      "prerequisites": [
-        "PY-221"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-223",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Deadlocks",
-      "path": "concurrency/PY-223-deadlocks",
-      "prerequisites": [
-        "PY-222"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-224",
-      "level": 15,
-      "kind": "concept",
-      "topic": "Thread pools",
-      "path": "concurrency/PY-224-thread-pools",
-      "prerequisites": [
-        "PY-223"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-225",
       "level": 15,
       "kind": "concept",
-      "topic": "Processes",
-      "path": "concurrency/PY-225-processes",
+      "topic": "Sequential execution",
+      "path": "concurrency/PY-225-sequential-execution",
       "prerequisites": [
-        "PY-224"
+        "CP-14"
       ],
       "hours": [
         4,
@@ -3861,8 +3861,8 @@
       "id": "PY-226",
       "level": 15,
       "kind": "concept",
-      "topic": "Multiprocessing",
-      "path": "concurrency/PY-226-multiprocessing",
+      "topic": "CPU-bound versus I/O-bound work",
+      "path": "concurrency/PY-226-cpu-bound-versus-i-o-bound-work",
       "prerequisites": [
         "PY-225"
       ],
@@ -3876,8 +3876,8 @@
       "id": "PY-227",
       "level": 15,
       "kind": "concept",
-      "topic": "Process pools",
-      "path": "concurrency/PY-227-process-pools",
+      "topic": "Threads",
+      "path": "concurrency/PY-227-threads",
       "prerequisites": [
         "PY-226"
       ],
@@ -3891,8 +3891,8 @@
       "id": "PY-228",
       "level": 15,
       "kind": "concept",
-      "topic": "Async programming",
-      "path": "concurrency/PY-228-async-programming",
+      "topic": "Threading primitives",
+      "path": "concurrency/PY-228-threading-primitives",
       "prerequisites": [
         "PY-227"
       ],
@@ -3906,8 +3906,8 @@
       "id": "PY-229",
       "level": 15,
       "kind": "concept",
-      "topic": "Event loop",
-      "path": "concurrency/PY-229-event-loop",
+      "topic": "Locks",
+      "path": "concurrency/PY-229-locks",
       "prerequisites": [
         "PY-228"
       ],
@@ -3921,8 +3921,8 @@
       "id": "PY-230",
       "level": 15,
       "kind": "concept",
-      "topic": "Async and await",
-      "path": "concurrency/PY-230-async-and-await",
+      "topic": "Race conditions",
+      "path": "concurrency/PY-230-race-conditions",
       "prerequisites": [
         "PY-229"
       ],
@@ -3936,8 +3936,8 @@
       "id": "PY-231",
       "level": 15,
       "kind": "concept",
-      "topic": "Asyncio tasks",
-      "path": "concurrency/PY-231-asyncio-tasks",
+      "topic": "Deadlocks",
+      "path": "concurrency/PY-231-deadlocks",
       "prerequisites": [
         "PY-230"
       ],
@@ -3951,10 +3951,130 @@
       "id": "PY-232",
       "level": 15,
       "kind": "concept",
-      "topic": "Async HTTP",
-      "path": "concurrency/PY-232-async-http",
+      "topic": "Thread pools",
+      "path": "concurrency/PY-232-thread-pools",
       "prerequisites": [
         "PY-231"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-233",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Processes",
+      "path": "concurrency/PY-233-processes",
+      "prerequisites": [
+        "PY-232"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-234",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Multiprocessing",
+      "path": "concurrency/PY-234-multiprocessing",
+      "prerequisites": [
+        "PY-233"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-235",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Process pools",
+      "path": "concurrency/PY-235-process-pools",
+      "prerequisites": [
+        "PY-234"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-236",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Async programming",
+      "path": "concurrency/PY-236-async-programming",
+      "prerequisites": [
+        "PY-235"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-237",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Event loop",
+      "path": "concurrency/PY-237-event-loop",
+      "prerequisites": [
+        "PY-236"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-238",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Async and await",
+      "path": "concurrency/PY-238-async-and-await",
+      "prerequisites": [
+        "PY-237"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-239",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Asyncio tasks",
+      "path": "concurrency/PY-239-asyncio-tasks",
+      "prerequisites": [
+        "PY-238"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-240",
+      "level": 15,
+      "kind": "concept",
+      "topic": "Async HTTP",
+      "path": "concurrency/PY-240-async-http",
+      "prerequisites": [
+        "PY-239"
       ],
       "hours": [
         4,
@@ -3970,7 +4090,7 @@
       "brief": "Bounded concurrency, cancellation, timeouts, and tested failure behavior.",
       "path": "projects/PRJ-011-concurrent-api-collector",
       "prerequisites": [
-        "PY-232"
+        "PY-240"
       ],
       "hours": [
         20,
@@ -3982,7 +4102,7 @@
       "id": "CP-15",
       "level": 15,
       "kind": "checkpoint",
-      "topic": "Level 15 checkpoint — Concurrency",
+      "topic": "Level 15 checkpoint \u2014 Concurrency",
       "path": "assessments/CP-15",
       "prerequisites": [
         "PRJ-011"
@@ -3994,133 +4114,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-233",
-      "level": 16,
-      "kind": "concept",
-      "topic": "Linux automation",
-      "path": "automation/PY-233-linux-automation",
-      "prerequisites": [
-        "CP-15"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-234",
-      "level": 16,
-      "kind": "concept",
-      "topic": "Operating-system processes",
-      "path": "automation/PY-234-operating-system-processes",
-      "prerequisites": [
-        "PY-233"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-235",
-      "level": 16,
-      "kind": "concept",
-      "topic": "Subprocesses",
-      "path": "automation/PY-235-subprocesses",
-      "prerequisites": [
-        "PY-234"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-236",
-      "level": 16,
-      "kind": "concept",
-      "topic": "Environment variables",
-      "path": "automation/PY-236-environment-variables",
-      "prerequisites": [
-        "PY-235"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-237",
-      "level": 16,
-      "kind": "concept",
-      "topic": "Signals",
-      "path": "automation/PY-237-signals",
-      "prerequisites": [
-        "PY-236"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-238",
-      "level": 16,
-      "kind": "concept",
-      "topic": "Sockets",
-      "path": "automation/PY-238-sockets",
-      "prerequisites": [
-        "PY-237"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-239",
-      "level": 16,
-      "kind": "concept",
-      "topic": "TCP",
-      "path": "automation/PY-239-tcp",
-      "prerequisites": [
-        "PY-238"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-240",
-      "level": 16,
-      "kind": "concept",
-      "topic": "UDP",
-      "path": "automation/PY-240-udp",
-      "prerequisites": [
-        "PY-239"
-      ],
-      "hours": [
-        4,
-        7
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-241",
       "level": 16,
       "kind": "concept",
-      "topic": "SSH",
-      "path": "automation/PY-241-ssh",
+      "topic": "Linux automation",
+      "path": "automation/PY-241-linux-automation",
       "prerequisites": [
-        "PY-240"
+        "CP-15"
       ],
       "hours": [
         4,
@@ -4132,8 +4132,8 @@
       "id": "PY-242",
       "level": 16,
       "kind": "concept",
-      "topic": "Remote execution",
-      "path": "automation/PY-242-remote-execution",
+      "topic": "Operating-system processes",
+      "path": "automation/PY-242-operating-system-processes",
       "prerequisites": [
         "PY-241"
       ],
@@ -4147,8 +4147,8 @@
       "id": "PY-243",
       "level": 16,
       "kind": "concept",
-      "topic": "File automation",
-      "path": "automation/PY-243-file-automation",
+      "topic": "Subprocesses",
+      "path": "automation/PY-243-subprocesses",
       "prerequisites": [
         "PY-242"
       ],
@@ -4162,8 +4162,8 @@
       "id": "PY-244",
       "level": 16,
       "kind": "concept",
-      "topic": "Log processing",
-      "path": "automation/PY-244-log-processing",
+      "topic": "Environment variables",
+      "path": "automation/PY-244-environment-variables",
       "prerequisites": [
         "PY-243"
       ],
@@ -4177,8 +4177,8 @@
       "id": "PY-245",
       "level": 16,
       "kind": "concept",
-      "topic": "Scheduling",
-      "path": "automation/PY-245-scheduling",
+      "topic": "Signals",
+      "path": "automation/PY-245-signals",
       "prerequisites": [
         "PY-244"
       ],
@@ -4192,10 +4192,130 @@
       "id": "PY-246",
       "level": 16,
       "kind": "concept",
-      "topic": "Monitoring",
-      "path": "automation/PY-246-monitoring",
+      "topic": "Sockets",
+      "path": "automation/PY-246-sockets",
       "prerequisites": [
         "PY-245"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-247",
+      "level": 16,
+      "kind": "concept",
+      "topic": "TCP",
+      "path": "automation/PY-247-tcp",
+      "prerequisites": [
+        "PY-246"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-248",
+      "level": 16,
+      "kind": "concept",
+      "topic": "UDP",
+      "path": "automation/PY-248-udp",
+      "prerequisites": [
+        "PY-247"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-249",
+      "level": 16,
+      "kind": "concept",
+      "topic": "SSH",
+      "path": "automation/PY-249-ssh",
+      "prerequisites": [
+        "PY-248"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-250",
+      "level": 16,
+      "kind": "concept",
+      "topic": "Remote execution",
+      "path": "automation/PY-250-remote-execution",
+      "prerequisites": [
+        "PY-249"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-251",
+      "level": 16,
+      "kind": "concept",
+      "topic": "File automation",
+      "path": "automation/PY-251-file-automation",
+      "prerequisites": [
+        "PY-250"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-252",
+      "level": 16,
+      "kind": "concept",
+      "topic": "Log processing",
+      "path": "automation/PY-252-log-processing",
+      "prerequisites": [
+        "PY-251"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-253",
+      "level": 16,
+      "kind": "concept",
+      "topic": "Scheduling",
+      "path": "automation/PY-253-scheduling",
+      "prerequisites": [
+        "PY-252"
+      ],
+      "hours": [
+        4,
+        7
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-254",
+      "level": 16,
+      "kind": "concept",
+      "topic": "Monitoring",
+      "path": "automation/PY-254-monitoring",
+      "prerequisites": [
+        "PY-253"
       ],
       "hours": [
         4,
@@ -4211,7 +4331,7 @@
       "brief": "Read-only checks, bounded remote operations, and controlled test hosts.",
       "path": "projects/PRJ-012-linux-server-checker-and-ssh-tool",
       "prerequisites": [
-        "PY-246"
+        "PY-254"
       ],
       "hours": [
         18,
@@ -4223,7 +4343,7 @@
       "id": "CP-16",
       "level": 16,
       "kind": "checkpoint",
-      "topic": "Level 16 checkpoint — Systems and Automation",
+      "topic": "Level 16 checkpoint \u2014 Systems and Automation",
       "path": "assessments/CP-16",
       "prerequisites": [
         "PRJ-012"
@@ -4235,133 +4355,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-247",
-      "level": 17,
-      "kind": "concept",
-      "topic": "Linux operational scripts",
-      "path": "devops/PY-247-linux-operational-scripts",
-      "prerequisites": [
-        "CP-16"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-248",
-      "level": 17,
-      "kind": "concept",
-      "topic": "Git automation",
-      "path": "devops/PY-248-git-automation",
-      "prerequisites": [
-        "PY-247"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-249",
-      "level": 17,
-      "kind": "concept",
-      "topic": "GitHub APIs",
-      "path": "devops/PY-249-github-apis",
-      "prerequisites": [
-        "PY-248"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-250",
-      "level": 17,
-      "kind": "concept",
-      "topic": "Docker automation",
-      "path": "devops/PY-250-docker-automation",
-      "prerequisites": [
-        "PY-249"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-251",
-      "level": 17,
-      "kind": "concept",
-      "topic": "Kubernetes automation",
-      "path": "devops/PY-251-kubernetes-automation",
-      "prerequisites": [
-        "PY-250"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-252",
-      "level": 17,
-      "kind": "concept",
-      "topic": "Jenkins integration",
-      "path": "devops/PY-252-jenkins-integration",
-      "prerequisites": [
-        "PY-251"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-253",
-      "level": 17,
-      "kind": "concept",
-      "topic": "GitHub Actions",
-      "path": "devops/PY-253-github-actions",
-      "prerequisites": [
-        "PY-252"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-254",
-      "level": 17,
-      "kind": "concept",
-      "topic": "AWS APIs",
-      "path": "devops/PY-254-aws-apis",
-      "prerequisites": [
-        "PY-253"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-255",
       "level": 17,
       "kind": "concept",
-      "topic": "Ansible integration",
-      "path": "devops/PY-255-ansible-integration",
+      "topic": "Linux operational scripts",
+      "path": "devops/PY-255-linux-operational-scripts",
       "prerequisites": [
-        "PY-254"
+        "CP-16"
       ],
       "hours": [
         4,
@@ -4373,8 +4373,8 @@
       "id": "PY-256",
       "level": 17,
       "kind": "concept",
-      "topic": "Terraform integration",
-      "path": "devops/PY-256-terraform-integration",
+      "topic": "Git automation",
+      "path": "devops/PY-256-git-automation",
       "prerequisites": [
         "PY-255"
       ],
@@ -4388,8 +4388,8 @@
       "id": "PY-257",
       "level": 17,
       "kind": "concept",
-      "topic": "Database operations",
-      "path": "devops/PY-257-database-operations",
+      "topic": "GitHub APIs",
+      "path": "devops/PY-257-github-apis",
       "prerequisites": [
         "PY-256"
       ],
@@ -4403,8 +4403,8 @@
       "id": "PY-258",
       "level": 17,
       "kind": "concept",
-      "topic": "Monitoring integration",
-      "path": "devops/PY-258-monitoring-integration",
+      "topic": "Docker automation",
+      "path": "devops/PY-258-docker-automation",
       "prerequisites": [
         "PY-257"
       ],
@@ -4418,10 +4418,130 @@
       "id": "PY-259",
       "level": 17,
       "kind": "concept",
-      "topic": "Secrets management",
-      "path": "devops/PY-259-secrets-management",
+      "topic": "Kubernetes automation",
+      "path": "devops/PY-259-kubernetes-automation",
       "prerequisites": [
         "PY-258"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-260",
+      "level": 17,
+      "kind": "concept",
+      "topic": "Jenkins integration",
+      "path": "devops/PY-260-jenkins-integration",
+      "prerequisites": [
+        "PY-259"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-261",
+      "level": 17,
+      "kind": "concept",
+      "topic": "GitHub Actions",
+      "path": "devops/PY-261-github-actions",
+      "prerequisites": [
+        "PY-260"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-262",
+      "level": 17,
+      "kind": "concept",
+      "topic": "AWS APIs",
+      "path": "devops/PY-262-aws-apis",
+      "prerequisites": [
+        "PY-261"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-263",
+      "level": 17,
+      "kind": "concept",
+      "topic": "Ansible integration",
+      "path": "devops/PY-263-ansible-integration",
+      "prerequisites": [
+        "PY-262"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-264",
+      "level": 17,
+      "kind": "concept",
+      "topic": "Terraform integration",
+      "path": "devops/PY-264-terraform-integration",
+      "prerequisites": [
+        "PY-263"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-265",
+      "level": 17,
+      "kind": "concept",
+      "topic": "Database operations",
+      "path": "devops/PY-265-database-operations",
+      "prerequisites": [
+        "PY-264"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-266",
+      "level": 17,
+      "kind": "concept",
+      "topic": "Monitoring integration",
+      "path": "devops/PY-266-monitoring-integration",
+      "prerequisites": [
+        "PY-265"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-267",
+      "level": 17,
+      "kind": "concept",
+      "topic": "Secrets management",
+      "path": "devops/PY-267-secrets-management",
+      "prerequisites": [
+        "PY-266"
       ],
       "hours": [
         4,
@@ -4437,7 +4557,7 @@
       "brief": "Read-only inventory and health reports with mocked integrations.",
       "path": "projects/PRJ-013-docker-and-kubernetes-health-checker",
       "prerequisites": [
-        "PY-259"
+        "PY-267"
       ],
       "hours": [
         20,
@@ -4449,7 +4569,7 @@
       "id": "CP-17",
       "level": 17,
       "kind": "checkpoint",
-      "topic": "Level 17 checkpoint — Python for DevOps",
+      "topic": "Level 17 checkpoint \u2014 Python for DevOps",
       "path": "assessments/CP-17",
       "prerequisites": [
         "PRJ-013"
@@ -4461,133 +4581,13 @@
       "pass_score": 85
     },
     {
-      "id": "PY-260",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Application architecture",
-      "path": "production/PY-260-application-architecture",
-      "prerequisites": [
-        "CP-17"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-261",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Configuration management",
-      "path": "production/PY-261-configuration-management",
-      "prerequisites": [
-        "PY-260"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-262",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Dependency management in production",
-      "path": "production/PY-262-dependency-management-in-production",
-      "prerequisites": [
-        "PY-261"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-263",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Application logging",
-      "path": "production/PY-263-application-logging",
-      "prerequisites": [
-        "PY-262"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-264",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Error handling at service boundaries",
-      "path": "production/PY-264-error-handling-at-service-boundaries",
-      "prerequisites": [
-        "PY-263"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-265",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Retry policies",
-      "path": "production/PY-265-retry-policies",
-      "prerequisites": [
-        "PY-264"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-266",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Exponential backoff",
-      "path": "production/PY-266-exponential-backoff",
-      "prerequisites": [
-        "PY-265"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
-      "id": "PY-267",
-      "level": 18,
-      "kind": "concept",
-      "topic": "Caching",
-      "path": "production/PY-267-caching",
-      "prerequisites": [
-        "PY-266"
-      ],
-      "hours": [
-        4,
-        8
-      ],
-      "pass_score": 80
-    },
-    {
       "id": "PY-268",
       "level": 18,
       "kind": "concept",
-      "topic": "Application security",
-      "path": "production/PY-268-application-security",
+      "topic": "Application architecture",
+      "path": "production/PY-268-application-architecture",
       "prerequisites": [
-        "PY-267"
+        "CP-17"
       ],
       "hours": [
         4,
@@ -4599,8 +4599,8 @@
       "id": "PY-269",
       "level": 18,
       "kind": "concept",
-      "topic": "Testing strategy",
-      "path": "production/PY-269-testing-strategy",
+      "topic": "Configuration management",
+      "path": "production/PY-269-configuration-management",
       "prerequisites": [
         "PY-268"
       ],
@@ -4614,8 +4614,8 @@
       "id": "PY-270",
       "level": 18,
       "kind": "concept",
-      "topic": "Packaging",
-      "path": "production/PY-270-packaging",
+      "topic": "Dependency management in production",
+      "path": "production/PY-270-dependency-management-in-production",
       "prerequisites": [
         "PY-269"
       ],
@@ -4629,8 +4629,8 @@
       "id": "PY-271",
       "level": 18,
       "kind": "concept",
-      "topic": "Dockerization",
-      "path": "production/PY-271-dockerization",
+      "topic": "Application logging",
+      "path": "production/PY-271-application-logging",
       "prerequisites": [
         "PY-270"
       ],
@@ -4644,8 +4644,8 @@
       "id": "PY-272",
       "level": 18,
       "kind": "concept",
-      "topic": "Deployment",
-      "path": "production/PY-272-deployment",
+      "topic": "Error handling at service boundaries",
+      "path": "production/PY-272-error-handling-at-service-boundaries",
       "prerequisites": [
         "PY-271"
       ],
@@ -4659,8 +4659,8 @@
       "id": "PY-273",
       "level": 18,
       "kind": "concept",
-      "topic": "Performance measurement",
-      "path": "production/PY-273-performance-measurement",
+      "topic": "Retry policies",
+      "path": "production/PY-273-retry-policies",
       "prerequisites": [
         "PY-272"
       ],
@@ -4674,8 +4674,8 @@
       "id": "PY-274",
       "level": 18,
       "kind": "concept",
-      "topic": "Scalability",
-      "path": "production/PY-274-scalability",
+      "topic": "Exponential backoff",
+      "path": "production/PY-274-exponential-backoff",
       "prerequisites": [
         "PY-273"
       ],
@@ -4689,10 +4689,130 @@
       "id": "PY-275",
       "level": 18,
       "kind": "concept",
-      "topic": "Maintainability",
-      "path": "production/PY-275-maintainability",
+      "topic": "Caching",
+      "path": "production/PY-275-caching",
       "prerequisites": [
         "PY-274"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-276",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Application security",
+      "path": "production/PY-276-application-security",
+      "prerequisites": [
+        "PY-275"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-277",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Testing strategy",
+      "path": "production/PY-277-testing-strategy",
+      "prerequisites": [
+        "PY-276"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-278",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Packaging",
+      "path": "production/PY-278-packaging",
+      "prerequisites": [
+        "PY-277"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-279",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Dockerization",
+      "path": "production/PY-279-dockerization",
+      "prerequisites": [
+        "PY-278"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-280",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Deployment",
+      "path": "production/PY-280-deployment",
+      "prerequisites": [
+        "PY-279"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-281",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Performance measurement",
+      "path": "production/PY-281-performance-measurement",
+      "prerequisites": [
+        "PY-280"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-282",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Scalability",
+      "path": "production/PY-282-scalability",
+      "prerequisites": [
+        "PY-281"
+      ],
+      "hours": [
+        4,
+        8
+      ],
+      "pass_score": 80
+    },
+    {
+      "id": "PY-283",
+      "level": 18,
+      "kind": "concept",
+      "topic": "Maintainability",
+      "path": "production/PY-283-maintainability",
+      "prerequisites": [
+        "PY-282"
       ],
       "hours": [
         4,
@@ -4708,7 +4828,7 @@
       "brief": "Read-only inventory and a reviewed deployment plan using least privilege.",
       "path": "projects/PRJ-014-aws-inventory-and-deployment-planner",
       "prerequisites": [
-        "PY-275"
+        "PY-283"
       ],
       "hours": [
         24,
@@ -4720,7 +4840,7 @@
       "id": "CP-18",
       "level": 18,
       "kind": "checkpoint",
-      "topic": "Level 18 checkpoint — Production Python",
+      "topic": "Level 18 checkpoint \u2014 Production Python",
       "path": "assessments/CP-18",
       "prerequisites": [
         "PRJ-014"

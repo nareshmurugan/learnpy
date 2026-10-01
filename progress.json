@@ -1420,20 +1420,6 @@
       "review_path": null,
       "history": []
     },
-    "CP-05": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-093": {
       "status": "LOCKED",
       "checks": {
@@ -1449,6 +1435,20 @@
       "history": []
     },
     "PY-094": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-05": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -1574,34 +1574,6 @@
       "review_path": null,
       "history": []
     },
-    "PRJ-005": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-06": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-103": {
       "status": "LOCKED",
       "checks": {
@@ -1617,6 +1589,34 @@
       "history": []
     },
     "PY-104": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-005": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-06": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -1728,34 +1728,6 @@
       "review_path": null,
       "history": []
     },
-    "PRJ-006": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-07": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-112": {
       "status": "LOCKED",
       "checks": {
@@ -1771,6 +1743,34 @@
       "history": []
     },
     "PY-113": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-006": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-07": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -2050,34 +2050,6 @@
       "review_path": null,
       "history": []
     },
-    "PRJ-007": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-08": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-133": {
       "status": "LOCKED",
       "checks": {
@@ -2135,6 +2107,34 @@
       "history": []
     },
     "PY-137": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-007": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-08": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -2288,20 +2288,6 @@
       "review_path": null,
       "history": []
     },
-    "CP-09": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-148": {
       "status": "LOCKED",
       "checks": {
@@ -2359,6 +2345,20 @@
       "history": []
     },
     "PY-152": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-09": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -2512,20 +2512,6 @@
       "review_path": null,
       "history": []
     },
-    "CP-10": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-163": {
       "status": "LOCKED",
       "checks": {
@@ -2596,6 +2582,20 @@
       "review_path": null,
       "history": []
     },
+    "CP-10": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
     "PY-168": {
       "status": "LOCKED",
       "checks": {
@@ -2653,20 +2653,6 @@
       "history": []
     },
     "PY-172": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-11": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -2778,6 +2764,20 @@
       "review_path": null,
       "history": []
     },
+    "CP-11": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
     "PY-180": {
       "status": "LOCKED",
       "checks": {
@@ -2835,34 +2835,6 @@
       "history": []
     },
     "PY-184": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "PRJ-008": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-12": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -2988,6 +2960,34 @@
       "review_path": null,
       "history": []
     },
+    "PRJ-008": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-12": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
     "PY-193": {
       "status": "LOCKED",
       "checks": {
@@ -3031,34 +3031,6 @@
       "history": []
     },
     "PY-196": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "PRJ-009": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-13": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -3171,6 +3143,34 @@
       "history": []
     },
     "PY-204": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-009": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-13": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -3352,34 +3352,6 @@
       "review_path": null,
       "history": []
     },
-    "PRJ-010": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-14": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-217": {
       "status": "LOCKED",
       "checks": {
@@ -3479,6 +3451,34 @@
       "history": []
     },
     "PY-224": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PRJ-010": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-14": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -3604,34 +3604,6 @@
       "review_path": null,
       "history": []
     },
-    "PRJ-011": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-15": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
     "PY-233": {
       "status": "LOCKED",
       "checks": {
@@ -3744,6 +3716,34 @@
       "review_path": null,
       "history": []
     },
+    "PRJ-011": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-15": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
     "PY-241": {
       "status": "LOCKED",
       "checks": {
@@ -3815,34 +3815,6 @@
       "history": []
     },
     "PY-246": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "PRJ-012": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-16": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -3968,6 +3940,34 @@
       "review_path": null,
       "history": []
     },
+    "PRJ-012": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-16": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
     "PY-255": {
       "status": "LOCKED",
       "checks": {
@@ -4025,34 +4025,6 @@
       "history": []
     },
     "PY-259": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "PRJ-013": {
-      "status": "LOCKED",
-      "checks": {
-        "theory": false,
-        "hands_on": false,
-        "test": false,
-        "review": false
-      },
-      "score": null,
-      "mastery": [],
-      "submission_commit": null,
-      "review_path": null,
-      "history": []
-    },
-    "CP-17": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
@@ -4178,6 +4150,34 @@
       "review_path": null,
       "history": []
     },
+    "PRJ-013": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "CP-17": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
     "PY-268": {
       "status": "LOCKED",
       "checks": {
@@ -4277,6 +4277,118 @@
       "history": []
     },
     "PY-275": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-276": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-277": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-278": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-279": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-280": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-281": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-282": {
+      "status": "LOCKED",
+      "checks": {
+        "theory": false,
+        "hands_on": false,
+        "test": false,
+        "review": false
+      },
+      "score": null,
+      "mastery": [],
+      "submission_commit": null,
+      "review_path": null,
+      "history": []
+    },
+    "PY-283": {
       "status": "LOCKED",
       "checks": {
         "theory": false,
